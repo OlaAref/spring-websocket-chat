@@ -1,4 +1,4 @@
-# Spring Boot WebSocket Chat Application
+# Spring Boot WebSocket Chat Application Sample
 
 This is a simple chat application built using Spring Boot and WebSocket. The application allows users to join a chat room, send messages, and receive messages in real-time.
 
