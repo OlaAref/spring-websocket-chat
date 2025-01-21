@@ -20,7 +20,7 @@ This is a simple chat application built using Spring Boot and WebSocket. The app
 
 ### Prerequisites
 
-- Java 11 or higher
+- Java 21 or higher
 - Maven 3.6.0 or higher
 
 ### Installation
